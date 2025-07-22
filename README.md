@@ -1,14 +1,6 @@
 # Movie Recommendation System
 
-A **movie recommendation system** built on a dataset of 5,000 movies, designed to suggest films based on content analysis and cast & crew metadata. This project demonstrates data merging, preprocessing, feature engineering, and machine learning-powered recommendations using Python.
-
-## Project Structure
-
-- **movies.csv**: Contains movie metadata (title, genres, etc.)
-- **movie_credits.csv**: Consists of cast and crew information for each movie
-- **src/**: Main source code directory (contains data preparation, model, and app scripts)
-- **README.md**: Project documentation
-- **requirements.txt**: Dependencies list
+A **movie recommendation system** built on a dataset of 5,000 movies, designed to suggest films based on content analysis and cast & crew metadata. This project demonstrates data merging, preprocessing, feature engineering, and machine learning-powered recommendations using Python
 
 ## Dataset Overview
 
